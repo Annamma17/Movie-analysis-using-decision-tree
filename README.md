@@ -1,9 +1,5 @@
 # Movie_analysis
-This repository implements the two decision tree algorithms : regression and classification. 
-1. Regreesion tree :
-  This tree branches the movies into various leaves based on the parameter 'Collection'.
-  (The collection raised from a movie is predicted)
-2. Classification tree :
-  This tree classifies the movies into various leaves based on the parameter 'Start_Tech_Oscar'  
-  
+* This repository consists of a model which analyzes the 'collection' acquired (amount raised) by a movie based on various features using the 'regression' method.
+* Further, the model predicts whether the movie could win a 'start-tech-oscar' using 'classification' method. 
+* 1. Decision tree was initially implemented and then bagging, random forest, grid search, gradient boost, and ada boost were implemented to increase the accuracy of the model.  
   
