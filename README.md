@@ -5,5 +5,5 @@
 * 2. Support Vector Machines(SVM) were then performed on the model.  
 * Inference :
 - Collection raised by a movie was best predicted by the regression tree model with an r square value of 0.69.
-- Predicting whether a movie could win start-tech-oscar was best fitted by random forest with an accuracy of 63.7%.
+- Predicting whether a movie could win start-tech-oscar was best fitted by XG Boost with an accuracy of 66.6%.
   
