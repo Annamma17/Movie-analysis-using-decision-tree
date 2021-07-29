@@ -1,4 +1,4 @@
-# 🎥 Movie_analysis
+# 🎥 Movie_analysis using decision tree
 * This repository consists of a model which analyzes the 'collection' acquired (amount raised) by a movie based on various features using the 'regression' method.
 * Further, the model predicts whether the movie could win a 'start-tech-oscar' using 'classification' method. 
 * 1. Normal decision tree was initially implemented and the accuracy acquired was 54.9%.
