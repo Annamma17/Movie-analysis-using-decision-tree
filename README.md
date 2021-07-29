@@ -1,7 +1,7 @@
 # 🎥 Movie_analysis
 * This repository consists of a model which analyzes the 'collection' acquired (amount raised) by a movie based on various features using the 'regression' method.
 * Further, the model predicts whether the movie could win a 'start-tech-oscar' using 'classification' method. 
-* 1. Normal decision tree was initially implemented and accuracy acquired was 54.9%.
+* 1. Normal decision tree was initially implemented and the accuracy acquired was 54.9%.
 * 2. Then pruning, bagging, random forest, grid search, gradient boost, ada boost and XG boost were implemented to increase the accuracy of the model. 
 * 3. Support Vector Machines(SVM) were then performed on the model.  
 * Inference :
